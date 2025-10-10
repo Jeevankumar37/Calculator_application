@@ -1,5 +1,5 @@
 <web-app xmlns="http://jakarta.ee/xml/ns/jakartaee" 
          version="5.0">
-    <display-name>Calculator App</display-name>
+    <display-name>Calculator Application</display-name>
 </web-app>
 
